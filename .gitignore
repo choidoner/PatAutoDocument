@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+
+# 포스트맨 관련 폴더 추가
+.postman/
+postman/
