@@ -1,7 +1,12 @@
 .venv/
+.venv_office/
 __pycache__/
 *.pyc
 
 # 포스트맨 관련 폴더 추가
 .postman/
 postman/
+
+# 보안
+.env
+Project_Root/.env
