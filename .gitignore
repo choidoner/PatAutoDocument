@@ -10,3 +10,5 @@ postman/
 # 보안
 .env
 Project_Root/.env
+templates/
+*.pptx
